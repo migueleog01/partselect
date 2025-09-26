@@ -1,0 +1,130 @@
+{
+  "appliance_type": "refrigerator",
+  "url": "https://www.partselect.com/Repair/Refrigerator/",
+  "intro_text": "If you are having problems with your refrigerator and need help troubleshooting what the issue could be, you’ve come to the right spot. Below you will find all of our fridge-related troubleshooting videos, and we also list all of the common symptoms refrigerators experience, like not making ice or being too noisy. Select the symptom your fridge is having and you’ll learn about the parts that can fix this issue.",
+  "repair_stats": {},
+  "common_symptoms": [
+    {
+      "title": "Noisy",
+      "description": "When your fridge is noisy, find out how to repair it by troubleshooting the location of the noise, from the evaporator fan motor in the freezer to the bottom of the fridge with the condenser fan motor.",
+      "url": "https://www.partselect.com/Repair/Refrigerator/Noisy/",
+      "url_slug": "Noisy",
+      "reported_by_percentage": 29,
+      "reported_by_text": "29% of customers"
+    },
+    {
+      "title": "Leaking",
+      "description": "Diagnose the reason for your leaking fridge, from a faulty water inlet valve to a worn out door seal.",
+      "url": "https://www.partselect.com/Repair/Refrigerator/Leaking/",
+      "url_slug": "Leaking",
+      "reported_by_percentage": 27,
+      "reported_by_text": "27% of customers"
+    },
+    {
+      "title": "Will not start",
+      "description": "Find out how to fix a fridge that will not start, by examining a few key parts such as the temperature control or the compressor overload relay.",
+      "url": "https://www.partselect.com/Repair/Refrigerator/Will-Not-Start/",
+      "url_slug": "Will-Not-Start",
+      "reported_by_percentage": 18,
+      "reported_by_text": "18% of customers"
+    },
+    {
+      "title": "Ice maker not making ice",
+      "description": "Learn how to fix your ice maker when it's not making ice and inspect the water fill tubes, water inlet valve and the icemaker.",
+      "url": "https://www.partselect.com/Repair/Refrigerator/Not-Making-Ice/",
+      "url_slug": "Not-Making-Ice",
+      "reported_by_percentage": 6,
+      "reported_by_text": "6% of customers"
+    },
+    {
+      "title": "Fridge too warm",
+      "description": "If your fridge is, too warm then troubleshooting common parts like the air inlet damper.",
+      "url": "https://www.partselect.com/Repair/Refrigerator/Refrigerator-Too-Warm/",
+      "url_slug": "Refrigerator-Too-Warm",
+      "reported_by_percentage": 6,
+      "reported_by_text": "6% of customers"
+    },
+    {
+      "title": "Not dispensing water",
+      "description": "If the water dispenser is not dispensing water then examine key parts such as the water inlet valve and dispenser actuator.",
+      "url": "https://www.partselect.com/Repair/Refrigerator/Not-Dispensing-Water/",
+      "url_slug": "Not-Dispensing-Water",
+      "reported_by_percentage": 3,
+      "reported_by_text": "3% of customers"
+    },
+    {
+      "title": "Fridge and Freezer are too warm",
+      "description": "Diagnose the causes of why the fridge and freezer are too warm by checking a few key parts such as the defrost timer, defrost heater, defrost thermostat or evaporator fan motor.",
+      "url": "https://www.partselect.com/Repair/Refrigerator/Refrigerator-Freezer-Too-Warm/",
+      "url_slug": "Refrigerator-Freezer-Too-Warm",
+      "reported_by_percentage": 3,
+      "reported_by_text": "3% of customers"
+    },
+    {
+      "title": "Door Sweating",
+      "description": "When the fridge has doors that are sweating then examine key components such as the door gasket, seals and the hinges.",
+      "url": "https://www.partselect.com/Repair/Refrigerator/Door-Sweating/",
+      "url_slug": "Door-Sweating",
+      "reported_by_percentage": 1,
+      "reported_by_text": "1% of customers"
+    },
+    {
+      "title": "Light not working",
+      "description": "Learn how to fix the fridge when the light won't turn on but the door is opened.",
+      "url": "https://www.partselect.com/Repair/Refrigerator/Light-Not-Working/",
+      "url_slug": "Light-Not-Working",
+      "reported_by_percentage": 1,
+      "reported_by_text": "1% of customers"
+    },
+    {
+      "title": "Fridge too cold",
+      "description": "Find out how to repair a fridge that's too cold by troubleshooting the common problem parts like a temperature control or thermistor.",
+      "url": "https://www.partselect.com/Repair/Refrigerator/Refrigerator-Too-Cold/",
+      "url_slug": "Refrigerator-Too-Cold",
+      "reported_by_percentage": 1,
+      "reported_by_text": "1% of customers"
+    },
+    {
+      "title": "Fridge runs too long",
+      "description": "Troubleshoot why the fridge is running too long by examining some of the key parts like a faulty defrost timer or the thermostats.",
+      "url": "https://www.partselect.com/Repair/Refrigerator/Running-Too-Long/",
+      "url_slug": "Running-Too-Long",
+      "reported_by_percentage": 1,
+      "reported_by_text": "1% of customers"
+    },
+    {
+      "title": "Freezer too cold",
+      "description": "Determine why your freezer is too cold by troubleshooting parts, like the air damper or thermistor.",
+      "url": "https://www.partselect.com/Repair/Refrigerator/Freezer-Too-Cold/",
+      "url_slug": "Freezer-Too-Cold",
+      "reported_by_percentage": 1,
+      "reported_by_text": "1% of customers"
+    }
+  ],
+  "troubleshooting_videos": [
+    {
+      "title": "Troubleshooting A Leaking Fridge",
+      "video_id": "I4_tF7SIPuI",
+      "url": "https://www.youtube.com/watch?v=I4_tF7SIPuI",
+      "thumbnail_url": "https://img.youtube.com/vi/I4_tF7SIPuI/maxresdefault.jpg"
+    },
+    {
+      "title": "Troubleshooting A Warm Fridge And Freezer",
+      "video_id": "wqOzCQWoqxw",
+      "url": "https://www.youtube.com/watch?v=wqOzCQWoqxw",
+      "thumbnail_url": "https://img.youtube.com/vi/wqOzCQWoqxw/maxresdefault.jpg"
+    },
+    {
+      "title": "Troubleshooting Why the Ice Maker Is Not Working",
+      "video_id": "I6Sgbo-CB3s",
+      "url": "https://www.youtube.com/watch?v=I6Sgbo-CB3s",
+      "thumbnail_url": "https://img.youtube.com/vi/I6Sgbo-CB3s/maxresdefault.jpg"
+    },
+    {
+      "title": "Troubleshooting Why the Water Dispenser Is Not Working",
+      "video_id": "Q8PMGWyvry4",
+      "url": "https://www.youtube.com/watch?v=Q8PMGWyvry4",
+      "thumbnail_url": "https://img.youtube.com/vi/Q8PMGWyvry4/maxresdefault.jpg"
+    }
+  ]
+}

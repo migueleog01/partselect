@@ -1,0 +1,116 @@
+{
+  "total_symptoms": 9,
+  "successful_scrapes": 7,
+  "existing_files": 2,
+  "failed_scrapes": 0,
+  "results": [
+    {
+      "symptom": "Noisy",
+      "status": "already_exists",
+      "file": "data/symptoms/dishwasher_noisy_detail.json",
+      "sections_count": 3,
+      "stats": {
+        "difficulty": "REALLY EASY",
+        "repair_stories_count": 989,
+        "step_by_step_videos_count": 10
+      }
+    },
+    {
+      "symptom": "Leaking",
+      "status": "already_exists",
+      "file": "data/symptoms/dishwasher_leaking_detail.json",
+      "sections_count": 7,
+      "stats": {
+        "difficulty": "EASY",
+        "repair_stories_count": 1324,
+        "step_by_step_videos_count": 6
+      }
+    },
+    {
+      "symptom": "Will not start",
+      "status": "success",
+      "file": "data/symptoms/dishwasher_will_not_start_detail.json",
+      "file_size": 10045,
+      "sections_count": 6,
+      "stats": {
+        "difficulty": "EASY",
+        "repair_stories_count": 1817,
+        "step_by_step_videos_count": 7
+      }
+    },
+    {
+      "symptom": "Door latch failure",
+      "status": "success",
+      "file": "data/symptoms/dishwasher_door_latch_failure_detail.json",
+      "file_size": 1828,
+      "sections_count": 1,
+      "stats": {
+        "difficulty": "REALLY EASY",
+        "repair_stories_count": 1239,
+        "step_by_step_videos_count": 4
+      }
+    },
+    {
+      "symptom": "Not cleaning dishes properly",
+      "status": "success",
+      "file": "data/symptoms/dishwasher_not_cleaning_dishes_properly_detail.json",
+      "file_size": 15638,
+      "sections_count": 11,
+      "stats": {
+        "difficulty": "EASY",
+        "repair_stories_count": 2543,
+        "step_by_step_videos_count": 38
+      }
+    },
+    {
+      "symptom": "Not draining",
+      "status": "success",
+      "file": "data/symptoms/dishwasher_not_draining_detail.json",
+      "file_size": 8689,
+      "sections_count": 6,
+      "stats": {
+        "difficulty": "EASY",
+        "repair_stories_count": 564,
+        "step_by_step_videos_count": 7
+      }
+    },
+    {
+      "symptom": "Will not fill with water",
+      "status": "success",
+      "file": "data/symptoms/dishwasher_will_not_fill_with_water_detail.json",
+      "file_size": 5700,
+      "sections_count": 4,
+      "stats": {
+        "difficulty": "EASY",
+        "repair_stories_count": 368,
+        "step_by_step_videos_count": 3
+      }
+    },
+    {
+      "symptom": "Will not dispense detergent",
+      "status": "success",
+      "file": "data/symptoms/dishwasher_will_not_dispense_detergent_detail.json",
+      "file_size": 7978,
+      "sections_count": 6,
+      "stats": {
+        "difficulty": "EASY",
+        "repair_stories_count": 703,
+        "step_by_step_videos_count": 6
+      }
+    },
+    {
+      "symptom": "Not drying dishes properly",
+      "status": "success",
+      "file": "data/symptoms/dishwasher_not_drying_dishes_properly_detail.json",
+      "file_size": 4177,
+      "sections_count": 3,
+      "stats": {
+        "difficulty": "EASY",
+        "repair_stories_count": 198,
+        "step_by_step_videos_count": 4
+      }
+    }
+  ],
+  "failures": [],
+  "timestamp": "2025-09-25 20:35:28"
+}

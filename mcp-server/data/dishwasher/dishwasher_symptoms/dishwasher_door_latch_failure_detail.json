@@ -1,0 +1,30 @@
+{
+  "symptom_title": "Door latch failure",
+  "url": "https://www.partselect.com/Repair/Dishwasher/Door-Latch-Failure/",
+  "repair_sections": [
+    {
+      "id": "DoorLatch",
+      "title": "Door Latch Assembly",
+      "description": "If your door latch is not working properly, the first thing to inspect should be the door catch. The door catch is attached to the top of the dishwasher tub and is normally adjustable. If not adjusted properly it can cause the door latch to not activate and will prevent the dishwasher from working, or it may not close the door tight enough to prevent a leak. The door latch may also be worn and no longer creates a tight fit, in which case the door latch will need to be replaced.",
+      "instructions": [
+        "Verify that you have unplugged your dishwasher before beginning.",
+        "The door latch assembly is most often found inside the inner door panel, near the top of the door. Remove your inner door panel and locate the door latch assembly.",
+        "Inspect the door catch to verify that it is mechanically activating the switches. If it is, remove the switches in order to test them for continuity.",
+        "Set your multimeter to Rx1 and touch the terminals with the probes. You are testing for continuity and should receive a reading of exactly or nearly zero.",
+        "If your test produces any other reading, you will need a replacement door latch assembly."
+      ],
+      "related_parts": [
+        {
+          "name": "OEM Replacement Dishwasher Latches",
+          "url": "https://www.partselect.com/Dishwasher-Latches.htm",
+          "text": "replacement door latch assembly"
+        }
+      ]
+    }
+  ],
+  "repair_stats": {
+    "difficulty": "REALLY EASY",
+    "repair_stories_count": 1239,
+    "step_by_step_videos_count": 4
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "symptom_title": "Not drying dishes properly",
+  "url": "https://www.partselect.com/Repair/Dishwasher/Not-Drying-Properly/",
+  "repair_sections": [
+    {
+      "id": "HeatingElement",
+      "title": "Heating Element",
+      "description": "A malfunctioning heating element may be the cause for dishes not drying. To test the heating element, first, make sure that power to your dishwasher is turned off, and then check for continuity with a multi-meter.",
+      "instructions": [
+        "Unplug your dishwasher before attempting this test.",
+        "Your heating element will be found inside the dishwasher, attached to the bottom of the tub. It may be covered or uncovered. If it is covered, remove the cover.",
+        "In order to disconnect the heating element, you will need to remove the lower access panel. Remove the wires attached to the heating element’s terminals by carefully grasping the metal connector, do not pull on the wire itself.",
+        "To test the element, set your multimeter to Rx1 and touch each probe to a terminal. Your reading should be somewhere between zero and infinity, refer to your owner’s manual to determine what reading you should receive for your model. If it is exactly zero or infinity it is defective.",
+        "If your test produces a reading different from the manufacturer’s recommendation, you will need a replacement heating element."
+      ],
+      "related_parts": [
+        {
+          "name": "OEM Replacement Dishwasher Element",
+          "url": "https://www.partselect.com/Dishwasher-Elements-and-Burners.htm",
+          "text": "replacement heating element"
+        }
+      ]
+    },
+    {
+      "id": "HighLimit",
+      "title": "High Limit Thermostat",
+      "description": "The high limit thermostat acts as a safety device that keeps the dishwasher from getting too hot. If the thermostat is malfunctioning, it could shut off the heat before your dishes are finished drying.",
+      "instructions": [
+        "Ensure that you unplug your appliance before beginning this inspection.",
+        "Locate and remove the thermostat in order to test it for continuity. In most models, it can be found at the bottom of the dishwasher tub, behind the lower access panel.",
+        "Set your multimeter to Rx1 mode and touch the terminals with the probes. When your thermostat is at room temperature, you should receive a reading of infinity. If you place the thermostat next to a warm lamp, you should receive a reading of zero.",
+        "If your thermostat produces different results, you will need a replacement high limit thermostat."
+      ],
+      "related_parts": [
+        {
+          "name": "OEM Replacement Dishwasher Thermostats",
+          "url": "https://www.partselect.com/Dishwasher-Thermostats.htm",
+          "text": "replacement high limit thermostat"
+        }
+      ]
+    },
+    {
+      "id": "RinseAid",
+      "title": "Rinse Aid Dispenser",
+      "description": "The rinse aid or the rinse aid dispensing cap could be the reason why your dishwasher is not fully drying your dishes. Without the rinse aid, the dishes will not shed water easily and will not dry properly.",
+      "instructions": [
+        "This inspection is very simple; you will not need to disassemble your appliance or have any tools to complete this inspection.",
+        "Your rinse aid dispenser will be found on the inside of the door, remove the cap from the dispenser.",
+        "After verifying that there is rinse aid in the chamber, inspect the cap and chamber for any signs of discoloration, warping, or any other damage.",
+        "If you find any issues with your rinse aid dispenser while performing this inspection, you will need a replacement rinse aid dispenser."
+      ],
+      "related_parts": [
+        {
+          "name": "OEM Replacement Dishwasher Dispensers",
+          "url": "https://www.partselect.com/Dishwasher-Dispensers.htm",
+          "text": "replacement rinse aid dispenser"
+        }
+      ]
+    }
+  ],
+  "repair_stats": {
+    "difficulty": "EASY",
+    "repair_stories_count": 198,
+    "step_by_step_videos_count": 4
+  }
+}

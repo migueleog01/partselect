@@ -1,0 +1,70 @@
+{
+  "symptom_title": "Noisy",
+  "url": "https://www.partselect.com/Repair/Dishwasher/Noisy/",
+  "repair_sections": [
+    {
+      "id": "Pump",
+      "title": "Pump",
+      "description": "A defective pump could be the reason your dishwasher is making loud noises. The function of the pump is to pressurize the spray arms, and in most models, it is also used to drain the water. The pump sits at the bottom of the dishwasher and typically consists of two separate compartments; one for wash or circulation and the other for draining. The circulation part of the pump will typically consist of the wash impeller and the filter components while the drain portion will consist of a drain impeller and a chopper blade or in some cases, a solenoid operated diverter. The impellers are driven by an electric motor that is attached to the bottom or side of the pump.",
+      "instructions": [
+        "Unplug your dishwasher before beginning this test; you will be handling electrical components.",
+        "Remove the pump in order to test it. The pump is usually found behind the lower access panel.",
+        "Using a multimeter on Rx1, place the probes onto the terminals to test for continuity. You should receive a reading of zero or nearly zero. To test the ground connection, with one probe still on a terminal, touch the other probe to the bare metal housing of the pump. You should not receive any reading from this test.",
+        "If your test results do not match those above, you will need a replacement pump."
+      ],
+      "related_parts": [
+        {
+          "name": "OEM Replacement Dishwasher Pumps",
+          "url": "https://www.partselect.com/Dishwasher-Pumps.htm",
+          "text": "replacement pump"
+        }
+      ]
+    },
+    {
+      "id": "WashArmBearing",
+      "title": "Wash Arm Bearing Ring & Spray Arm Seal",
+      "description": "If your dishwasher is noisy, the cause could be a wash arm seal or bearing ring. These parts are plastic rings that support the wash arm or the spray arm and that the arm rotates on. Either of these parts could be loose or be worn, causing the spray arm to not function properly.",
+      "instructions": [
+        "While you will not be disassembling your appliance, we still recommend unplugging your appliance before beginning.",
+        "Locate your wash arm bearing ring & spray arm seal. They will be found attached to the spray/wash arms.",
+        "Visually inspect them for signs of wear, cracking, or damage. You may need to remove the spray/wash arms to fully inspect them, depending on your model.",
+        "If you find signs of the above symptoms, you will need replacement wash arm bearing rings and/or spray arm seals."
+      ],
+      "related_parts": [
+        {
+          "name": "OEM Replacement Dishwasher Bearings",
+          "url": "https://www.partselect.com/Dishwasher-Bearings.htm",
+          "text": "replacement wash arm bearing rings"
+        },
+        {
+          "name": "OEM Replacement Dishwasher Seals",
+          "url": "https://www.partselect.com/Dishwasher-Seals-and-Gaskets.htm",
+          "text": "spray arm seals."
+        }
+      ]
+    },
+    {
+      "id": "SprayArms",
+      "title": "Spray Arms",
+      "description": "Water is forced through the dishwasher spray arms to spray water and detergent around the dishwasher. All dishwashers have a lower spray arm located at the bottom of the dishwasher, and some dishwashers also have middle or upper spray arms located below the top dish rack or at the top of the dishwasher tub.",
+      "instructions": [
+        "For safety, disconnect the power from your appliance before beginning.",
+        "Manually spin your spray arms to ensure they are not hitting the racks and are turning freely. The spray arms should not be wobbly.",
+        "Visually inspect your spray arms for any signs of wear, cracking, or damage.",
+        "If you find any issues while performing the checks above, you will need replacement spray arms."
+      ],
+      "related_parts": [
+        {
+          "name": "OEM Replacement Dishwasher Arms",
+          "url": "https://www.partselect.com/Dishwasher-Spray-Arms.htm",
+          "text": "replacement spray arms"
+        }
+      ]
+    }
+  ],
+  "repair_stats": {
+    "difficulty": "REALLY EASY",
+    "repair_stories_count": 989,
+    "step_by_step_videos_count": 10
+  }
+}

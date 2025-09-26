@@ -1,0 +1,23 @@
+{
+  "symptom_title": "Fridge too warm",
+  "url": "https://www.partselect.com/Repair/Refrigerator/Refrigerator-Too-Warm/",
+  "repair_sections": [
+    {
+      "id": "AirInletDamper",
+      "title": "Air Inlet Damper Or Baffle",
+      "description": "The air damper, baffle or diffuser is the device that balances the air flow from the evaporator fan housing. This normally is a mechanically controlled baffle or flapper that controls the amount of cold air entering the fresh food compartment. If the baffle is damaged or the linkage to the control knob is damaged, then you may not have enough cold air entering the fresh food compartment resulting in higher than normal temperatures.",
+      "instructions": [
+        "Disconnect your refrigerator from the power source and open your refrigerator door to locate the damper or baffle. It will be found where the cold air enters the fresh food compartment.",
+        "The housing that the baffle or damper is encased in is often made of plastic with a Styrofoam lining and may have a foam seal to prevent air leakage. Care should be used when inspecting the housing to avoid damage to the seal or the Styrofoam.",
+        "Some refrigerator models use a temperature sensing bulb attached to this control that will automatically adjust the control for changes in the interior temperature. Make sure that the sensing bulb is in the correct position and is not damaged.",
+        "Attempt to operate the control knob to verify that the linkage is intact and that it moves freely.",
+        "If the damper/baffle is stuck in the closed or nearly closed position or does not move freely, then you need a replacement air inlet damper or baffle."
+      ],
+      "related_parts": []
+    }
+  ],
+  "repair_stats": {
+    "difficulty": "REALLY EASY",
+    "repair_stories_count": 16
+  }
+}
