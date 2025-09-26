@@ -192,9 +192,7 @@ The system uses:
 4. Test thoroughly
 5. Submit a pull request
 
-## 📄 License
 
-This project is for educational and research purposes.
 
 ## 🔗 Links
 
@@ -204,4 +202,4 @@ This project is for educational and research purposes.
 
 ---
 
-**Built with ❤️ for appliance repair technicians and DIY enthusiasts**
+
