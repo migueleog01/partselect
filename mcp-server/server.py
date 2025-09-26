@@ -114,6 +114,41 @@ def get_part_detail(part_select_number: str) -> dict:
         part_detail = _clean_unicode_data(part_detail)
         
         logger.info(f"Successfully retrieved part details for {part_select_number}")
+
+
+
+        """
+        product_info = {
+        'url': url,
+        'name': '',
+        'price': None,
+        'part_number': '',
+        'manufacturer_part': '',
+        'replaces_parts': [],
+        'difficulty': '',
+        'time_estimate': '',
+        'rating': None,
+        'review_count': None,
+        'product_type': '',
+        'in_stock': False,
+        'description': '',
+        'you_may_need': [],
+        'symptoms': [],
+        'part_videos': [],
+        'model_compatibility': []
+    }
+        
+        """
+        #if its not a refrigereator or dishwasher then return saying sorry i can only help with refrigerator or dishwasher
+
+        if part_detail.get('product_type') != 'refrigerator' and part_detail.get('product_type') != 'dishwasher':
+            return {
+                "error": "Sorry, I can only help with refrigerator or dishwasher. Please ask about refrigerator or dishwasher issues.",
+                "part_number": part_select_number,
+                "product_type": part_detail.get('product_type')
+            }
+
+
         return part_detail
     except UnicodeDecodeError as e:
         logger.error(f"Unicode encoding error for {part_select_number}: {e}")
